@@ -4,6 +4,7 @@ public abstract class Service {
     private String judul;
     private String penulis;
     private int tahunTerbit;
+
     public void setJudul(String judul) {
         this.judul = judul;
     }
